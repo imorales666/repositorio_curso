@@ -1,4 +1,4 @@
-name: .github/workflows/blank1.yml 
+name: CI
 
 on:
   workflow_dispatch:
